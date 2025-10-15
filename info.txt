@@ -1,1 +1,2 @@
-Kurs: DevOps
+Autor: Jakub Godos
+Kurs: Technologie DevOps 2025
